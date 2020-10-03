@@ -17,11 +17,11 @@ class SplashScreen : AppCompatActivity() {
         details = getSharedPreferences("details", Context.MODE_PRIVATE)
         if(details.getBoolean("loggined",false)){
             Handler().postDelayed(Runnable { startActivity(Intent(this,
-                MainActivity::class.java)) },500)
+                MainActivity::class.java)) },1000)
         }
         else{
             Handler().postDelayed(Runnable { startActivity(Intent(this,
-                Login_Activity::class.java)) },500)
+                Login_Activity::class.java)) },1000)
         }
 
     }
