@@ -5,7 +5,7 @@
 
 > Food Ordering App
 
-<sub>(API's used are private,used only for working don't share any details.)</sub>
+<sub>(APIs used are private,use only for working don't share any details.)</sub>
 
 
 
