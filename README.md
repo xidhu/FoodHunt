@@ -46,6 +46,6 @@ See  the [issue page][1]  for any kind of support.
 
 # License
 
-MIT
+No Licences Included
 
 [1]:https://github.com/xidhu/FoodHunt/issues
