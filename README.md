@@ -46,6 +46,6 @@ See  the [issue page][1]  for any kind of support.
 
 # License
 
-No Licences Included
+No Licence Included.
 
 [1]:https://github.com/xidhu/FoodHunt/issues
