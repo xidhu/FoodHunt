@@ -5,27 +5,29 @@
 
 > Food Ordering App
 
-<sub>(APIs used are private,use only for working don't share any details.)</sub>
+<sub>(APIs used are private,use only for testing don't share any details.)</sub>
 
 
 
-- Simple gradle build
-- External Dependencies Included
+
+
 
 
 
 
 # Features
 
-- Simple User Interface
+- 10+ Restaurants
+- 200+ Dishes
 
 
-# Build
-
-**Build using Android Studio 4.0+**
 
 
-**Gradle Build**
+
+
+
+
+
 
 
 
